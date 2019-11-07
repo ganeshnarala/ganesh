@@ -138,5 +138,3 @@ while True:
     fpsController.tick(10)  # speed
 
 print('hello')
-
-print('hi')
