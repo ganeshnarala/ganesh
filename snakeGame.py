@@ -136,3 +136,5 @@ while True:
     showScore()
     pygame.display.flip()
     fpsController.tick(10)  # speed
+
+print('hello')
